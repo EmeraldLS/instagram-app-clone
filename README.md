@@ -4,5 +4,6 @@ I was bored and decided to do some mobile app developement, so I decided to clon
 
 here are some screenshots of the app:
 
-![HomeView](https://github.com/emeraldls/Instagram-Clone/blob/main/screenshots/HomeView.png)
+HomeView:
+![HomeView](https://raw.githubusercontent.com/EmeraldLS/instagram-app-clone/master/HomeView.png)
 
